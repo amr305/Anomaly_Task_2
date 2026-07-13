@@ -1,0 +1,11 @@
+user_id,age,subscription_tier,total_purchases,revenue,account_status
+1,25,Basic,14,250.50,Active
+2,,Premium,5,150.00,Inactive
+3,30,Premium,21,800.20,Active
+4,22,Basic,,0.00,Active
+5,28,Basic,8,120.75,Inactive
+6,,Premium,12,450.00,Active
+7,35,Basic,3,45.50,Active
+8,40,Premium,30,1200.00,Active
+9,29,Basic,7,90.00,Inactive
+10,24,Basic,15,310.00,Active
